@@ -1,0 +1,26 @@
+body {
+
+}
+input {
+	border: 3px solid #0080ff;
+	padding: 10px 10px 10px 40px;
+	border-radius: 5px;
+	font-family: arial;
+	font-weight: bold;
+	color: #777;
+	background-image: url('../images/img1.png');
+	background-size: 32px;
+	background-repeat: no-repeat;
+} 
+.field {
+	margin-bottom: 15px
+}
+.boton {
+	border: 3px;
+}
+button {
+	border: 3px solid #ffffff;
+	color: white;
+	background: #0080ff;
+	padding: 10px;
+}
